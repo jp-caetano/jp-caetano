@@ -1,7 +1,7 @@
 ### Bem vindo(a)! Sou o João Paulo Caetano 🙏🏾
 
-- 🔭 Analista na área de Engenharia de Dados
-- 📚 Cursando Engenharia de Computação
+- 🔭 Engenheiro de Dados
+- 📚 Graduado em Engenharia de Computação
 - 🌱 Estudando Amazon Web Services
 - 🤔 Aprendendo a usar o GitHub
 - 😄 Pronouns: ele/dele
